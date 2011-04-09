@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[Ext.onReady(function() {
+    ${0:$TM_SELECTED_TEXT}
+});]]></content>
+    <tabTrigger>ready</tabTrigger>
+    <scope>source.js</scope>
+    <description>Ext.onReady</description>
+</snippet>

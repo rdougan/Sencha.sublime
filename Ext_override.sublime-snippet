@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[Ext.override(${1:Ext.${2:SomeClass}}, {
+  $0
+});]]></content>
+    <description>Ext.override</description>
+    <scope>source.js</scope>
+    <tabTrigger>override</tabTrigger>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}});]]></content>
+    <description>fireEvent</description>
+    <scope>source.js</scope>
+    <tabTrigger>fe</tabTrigger>
+</snippet>
+

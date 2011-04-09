@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[* @param {${1:String}} ${2:paramName} ${3:Parameter description}]]></content>
+    <tabTrigger>* p</tabTrigger>
+    <scope>source.js</scope>
+    <description>JSDoc: param</description>
+</snippet>

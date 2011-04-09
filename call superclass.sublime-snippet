@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:MyClassName}.superclass.${2:constructor}.${3:apply}(${4:this, arguments});$0]]></content>
+    <description>call superclass</description>
+    <scope>source.js</scope>
+    <tabTrigger>super</tabTrigger>
+</snippet>
+

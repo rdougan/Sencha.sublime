@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[Ext.ns('$1');$0]]></content>
+    <description>Ext.ns</description>
+    <scope>source.js</scope>
+    <tabTrigger>ns</tabTrigger>
+</snippet>
+

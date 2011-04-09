@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[Ext.iterate(${1:Object}, ${2:function(key, value) {
+  ${0}
+\}}${3:, this});]]></content>
+    <description>Ext.iterate</description>
+    <scope>source.js</scope>
+    <tabTrigger>iterate</tabTrigger>
+</snippet>
+

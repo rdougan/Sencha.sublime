@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[/**
+ * ${10:Function description}${2:
+ * @param {${3:String}\} ${4:paramName} ${5:parameter description}}${7:
+ * @return {${8:String}\} ${9:Return value description}}
+ */
+${1:functionName}: function($4$6) {
+  $0
+}]]></content>
+    <description>Extend Block: function</description>
+    <scope>source.js</scope>
+    <tabTrigger>ef</tabTrigger>
+</snippet>
+

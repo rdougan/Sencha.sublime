@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[if (${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}})) {
+  $0
+}]]></content>
+    <description>fireEvent (before)</description>
+    <scope>source.js</scope>
+    <tabTrigger>bfe</tabTrigger>
+</snippet>
+

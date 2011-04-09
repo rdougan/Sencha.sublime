@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[Ext.onReady(function() {
+  $0
+});]]></content>
+    <description>Ext.onReady</description>
+    <scope>source.js</scope>
+    <tabTrigger>ready</tabTrigger>
+</snippet>
+

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[* @extends ${1:ClassName}]]></content>
+    <tabTrigger>* e</tabTrigger>
+    <scope>source.js</scope>
+    <description>JSDoc: extends</description>
+</snippet>

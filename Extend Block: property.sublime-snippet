@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * ${3:Property description}
+ * @property ${1:propertyName}
+ * @type ${2:Boolean}
+ */
+${1:propertyName}: ${0}]]></content>
+    <description>Extend Block: property</description>
+    <scope>source.js</scope>
+    <tabTrigger>ep</tabTrigger>
+</snippet>
+

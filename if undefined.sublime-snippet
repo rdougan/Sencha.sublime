@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[if (${1:myObject} == undefined) ${2:{
+  $0
+\}}]]></content>
+    <description>if undefined</description>
+    <scope>source.js</scope>
+    <tabTrigger>ifu</tabTrigger>
+</snippet>
+

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[config = config || {};
+      
+Ext.applyIf(config, {
+  $0
+});]]></content>
+    <description>Ext.applyIf to config</description>
+    <scope>source.js</scope>
+    <tabTrigger>aifc</tabTrigger>
+</snippet>
+

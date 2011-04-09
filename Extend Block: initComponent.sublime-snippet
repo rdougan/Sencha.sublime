@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[initComponent: function() {
+    $0
+  
+    ${1:${TM_FILENAME/(.+)\.js$/$1/}}.superclass.initComponent.apply(this, arguments);
+}${2:,}]]></content>
+    <description>Extend Block: initComponent</description>
+    <scope>source.js</scope>
+    <tabTrigger>initc</tabTrigger>
+</snippet>
+

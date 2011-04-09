@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[console.log(arguments);$0]]></content>
+    <description>console.log arguments</description>
+    <scope>source.js</scope>
+    <tabTrigger>coa</tabTrigger>
+</snippet>
+

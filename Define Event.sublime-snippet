@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/**
+ * @event ${1:eventName}
+ * ${2:Event description}${3:
+ * @param {${4:paramType}\} ${5:paramName} ${6:parameter description}}
+ */
+'${1:eventName}'$0]]></content>
+    <description>Define Event</description>
+    <scope>source.js</scope>
+    <tabTrigger>e</tabTrigger>
+</snippet>
+

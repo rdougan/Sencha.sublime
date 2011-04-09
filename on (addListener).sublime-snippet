@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:this}.on('${2:click}', ${4:function($5) {$0\}}, ${3:this});]]></content>
+    <tabTrigger>on</tabTrigger>
+    <scope>source.js</scope>
+    <description>on (addListener)</description>
+</snippet>

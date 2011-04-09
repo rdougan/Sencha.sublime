@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[/**
+ * @cfg {${1:String}} ${2:configName} ${3:Property description}
+ */
+${2:configName}: ${0}]]></content>
+    <description>Extend Block: config</description>
+    <scope>source.js</scope>
+    <tabTrigger>ec</tabTrigger>
+</snippet>
+
