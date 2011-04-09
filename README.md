@@ -8,4 +8,4 @@ This bundle is released under the MIT license and can be used for both Ext JS an
 
 #### Mac OSX
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages && git clone git@github.com:rdougan/Sencha.sublime.git "Sencha"
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages && git clone git://github.com/rdougan/Sencha.sublime.git "Sencha"
