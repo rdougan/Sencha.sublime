@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[/**
+ * @class ${1:MyNamespace.}${2:${TM_FILENAME/(.+)\.js$/$1/}}
+ * @extends ${3:extendsClass}
+ * ${13:Description}
+ */
+Ext.define('${1:MyNamespace.}${2:ClassName}' {
+    extend: '${3:extendsClass}'${4:,
+    alias: '${5:widget.${6}}'}${7:,
+    requires: [
+        '${8:requiresClass}'${9}
+    ]}${10:,
+    mixins: [
+        '${11:mixin}'${12}
+    ]}
+});]]></content>
+    <description>Ext.define</description>
+    <scope>source.js</scope>
+    <tabTrigger>define</tabTrigger>
+</snippet>
+
