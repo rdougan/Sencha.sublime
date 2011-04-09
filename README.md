@@ -6,6 +6,6 @@ This bundle is released under the MIT license and can be used for both Ext JS an
 
 ## Installation instructions for Sublimt Text 2
 
-    Mac OSX
+#### Mac OSX
 
-        `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages && git clone git@github.com:rdougan/Sencha.sublime.git "Sencha"`
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages && git clone git@github.com:rdougan/Sencha.sublime.git "Sencha"
