@@ -4,7 +4,7 @@
  * @extends ${3:extendsClass}
  * ${13:Description}
  */
-Ext.define('${1:MyNamespace.}${2:ClassName}' {
+Ext.define('${1:MyNamespace.}${2:ClassName}', {
     extend: '${3:extendsClass}'${4:,
     alias: '${5:widget.${6}}'}${7:,
     requires: [
