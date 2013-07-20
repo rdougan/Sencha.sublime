@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-* ${0]]></content>
-    <description>JSDoc new line</description>
-    <tabTrigger>/**</tabTrigger>
-    <scope>comment.block.documentation.js</scope>
-</snippet>

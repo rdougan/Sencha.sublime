@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[* @class ${1:ClassName}]]></content>
-    <tabTrigger>* cl</tabTrigger>
-    <scope>source.js</scope>
-    <description>JSDoc: class</description>
-</snippet>

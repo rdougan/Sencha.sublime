@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[Ext.reg('${1:xtype}', ${2:ClassName});$0]]></content>
-    <description>Ext.reg</description>
-    <scope>source.js</scope>
-    <tabTrigger>reg</tabTrigger>
-</snippet>
-

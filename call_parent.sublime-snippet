@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[this.callParent(${1:arguments});$0]]></content>
+    <description>call parent</description>
+    <scope>source.js</scope>
+    <tabTrigger>cp</tabTrigger>
+</snippet>
+

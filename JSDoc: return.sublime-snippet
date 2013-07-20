@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[* @return {${1:String}} ${2:Returned parameter description}]]></content>
-    <tabTrigger>* r</tabTrigger>
-    <scope>source.js</scope>
-    <description>JSDoc: return</description>
-</snippet>

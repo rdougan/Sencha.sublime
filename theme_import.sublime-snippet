@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[@import 'sencha-touch/${1:default}';
+@import 'sencha-touch/${1:default}/all';$0]]></content>
+    <description>import Sencha Touch theme</description>
+    <scope>source.scss</scope>
+    <tabTrigger>imp</tabTrigger>
+</snippet>
+

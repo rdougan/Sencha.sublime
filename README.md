@@ -6,6 +6,23 @@ This bundle is released under the MIT license and can be used for both Ext JS an
 
 ## Installation instructions for Sublimt Text 2
 
-#### Mac OSX
+#### Package Control
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages && git clone git://github.com/rdougan/Sencha.sublime.git "Sencha"
+You can use [Package Control](http://wbond.net/sublime_packages/package_control/installation) to install the Sencha Sublime package. Please follow the [usage](http://wbond.net/sublime_packages/package_control/usage) guide on how to install packages (search for **Sencha**).
+
+## Useful snippets
+
+### JavaScript
+
+* **dd** > `debugger`
+* **cp** > `this.callParent();`
+* **c** > `console.log('');`
+* **co** > `console.log();`
+* **coa** > `console.log(arguments);`
+* **application** > `Ext.application` snippet
+* **define** > `Ext.define` snippet
+* **con** > apply and update methods for custom configs
+
+### Sass
+
+* **imp** > `@import` Sencha Touch theme

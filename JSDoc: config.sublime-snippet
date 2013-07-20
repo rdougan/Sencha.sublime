@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[* @cfg {${1:String}} ${2:configName} ${3:Config description}]]></content>
-    <tabTrigger>* c</tabTrigger>
-    <scope>source.js</scope>
-    <description>JSDoc: config</description>
-</snippet>
